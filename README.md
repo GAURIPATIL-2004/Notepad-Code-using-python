@@ -28,7 +28,8 @@ How to Run
 1. Clone this repository 📁:
 
 git clone https://github.com/GAURIPATIL-2004/Notepad-Code-using-python.git
-cd notepad-app
+
+cd Notepad-Code-using-python
 
 
 2. Run the application :
