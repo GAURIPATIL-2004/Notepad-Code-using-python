@@ -27,7 +27,7 @@ How to Run
 
 1. Clone this repository 📁:
 
-git clone https://github.com/your-username/notepad-app.git
+git clone https://github.com/GAURIPATIL-2004/notepad-app.git
 cd notepad-app
 
 
