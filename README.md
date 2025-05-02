@@ -34,15 +34,15 @@ cd Notepad-Code-using-python
 
 2. Run the application :
 
-python notepad.py
+python notpad.py
 
 
 
 File Structure 🗃️ 
 
-notepad.py — Main application file.
+notpad.py — Main application file.
 
-Notepad.ico (optional) — Icon for the app window (place in the same directory).
+Notpad.ico (optional) — Icon for the app window (place in the same directory).
 
 
 Credits 🥇 
@@ -50,4 +50,5 @@ Credits 🥇
 Developed by Gauri Patil
 
 
-Screensho 🖼️
+Screenshot 🖼️
+![NotePad](notpad1.png)
