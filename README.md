@@ -51,4 +51,4 @@ Developed by Gauri Patil
 
 
 Screenshot 🖼️
-![NotePad](notpad1.png)
+<img src="notpad1.png" alt="Sales Chart" width="500"/>
